@@ -1,5 +1,17 @@
 # 💫 About Me:
 👋 Hi, I'm Nishant Rathod.  I'm a MERN stack developer with a passion for crafting dynamic and scalable web applications. <br>💻 I thrive on coding, exploring new technologies, and contributing to open source projects. <br>🌟 Let's build something incredible together! 🚀<br><br>
+<a href="https://nishant-portfolio-23.vercel.app/" target="_blank" style="
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #00ADB5;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: bold;
+  margin-top: 20px;
+">
+  🚀 View My Portfolio
+</a>
 
 
 ## 🌐 Socials:
